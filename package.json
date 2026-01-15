@@ -1,0 +1,26 @@
+{
+    "name": "ssms-cool-slate-theme",
+    "displayName": "SSMS 22 Cool Slate Theme",
+    "description": "A dark theme inspired by SQL Server Management Studio's Cool Slate theme with modern enhancements for VSCode.",
+    "publisher": "TerenceCarrera",
+    "repository": {
+        "url": "https://github.com/terence-carrera/ssms-cool-slate-theme"
+    },
+    "license": "MIT",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.90.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "SSMS 22 Cool Slate Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SSMS Cool Slate Theme-color-theme.json"
+            }
+        ]
+    }
+}
