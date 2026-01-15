@@ -2,8 +2,12 @@
 
 All notable changes to the "ssms-cool-slate-theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+This project follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [0.0.1] - 2026-01-15
 
-- Initial release
+### Added
+
+- Dark SSMS-inspired slate palette with teal accents and yellow status bar.
+- Semantic token colors aligned with the TextMate palette to restore reserved-word coloring across languages.
+- Initial documentation and packaging.
