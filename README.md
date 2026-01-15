@@ -4,7 +4,8 @@ A Visual Studio Code color theme inspired by SQL Server Management Studio's Cool
 
 ## Preview
 
-No Preview Available Yet
+<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/fd9db314-0bad-4505-9d5a-2e032a96cf62" style="border: 1px solid rgba(0,0,0,0.5); border-radius: 4px;" />
+
 
 ## Installation
 
